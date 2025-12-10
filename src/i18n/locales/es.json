@@ -53,13 +53,13 @@
     "landing": {
       "title": "Landing Pages",
       "description": "Páginas de alta conversión enfocadas en resultados. Ideal para campañas de marketing, lanzamientos y captación de leads.",
-      "features": ["Diseño optimizado para conversión", "Integración con herramientas de marketing", "Carga ultra-rápida"]
+      "features": "Diseño optimizado para conversión,Integración con herramientas de marketing,Carga ultra-rápida"
     },
     "institutional": {
       "title": "Sitios Institucionales",
       "tag": "Más Popular",
       "description": "Presenta tu empresa con elegancia y profesionalismo. Sitios completos que transmiten credibilidad y fortalecen tu marca.",
-      "features": ["Múltiples páginas personalizadas", "SEO optimizado", "Panel administrativo"]
+      "features": "Múltiples páginas personalizadas,SEO optimizado,Panel administrativo"
     }
   },
   "pricing": {
@@ -75,23 +75,20 @@
       "start": {
         "tag": "Básico",
         "name": "Plan Start",
-        "price": "R$ 250",
         "description": "Sitio simple y directo",
-        "features": ["Sitio simple", "1 página", "Dominio gratuito", "Soporte básico"]
+        "features": "Sitio simple,1 página,Dominio gratuito,Soporte básico"
       },
       "pro": {
         "tag": "Profesional",
         "name": "Plan Pro",
-        "price": "R$ 800",
         "description": "Sitio web completo para tu negocio",
-        "features": ["Sitio web completo (hasta 5 páginas)", "Layout profesional", "Dominio propio por 1 año", "SEO básico"]
+        "features": "Sitio web completo (hasta 5 páginas),Layout profesional,Dominio propio por 1 año,SEO básico"
       },
       "premium": {
         "tag": "Completo",
         "name": "Plan Premium",
-        "price": "R$ 1.600",
         "description": "Solución completa y exclusiva",
-        "features": ["Sitio web completo", "Diseño exclusivo", "Dominio propio", "Optimización avanzada", "Mantenimiento por 30 días"]
+        "features": "Sitio web completo,Diseño exclusivo,Dominio propio,Optimización avanzada,Mantenimiento por 30 días"
       }
     }
   },

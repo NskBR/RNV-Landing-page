@@ -53,13 +53,13 @@
     "landing": {
       "title": "Landing Pages",
       "description": "High-conversion pages focused on results. Ideal for marketing campaigns, launches and lead capture.",
-      "features": ["Conversion-optimized design", "Marketing tools integration", "Ultra-fast loading"]
+      "features": "Conversion-optimized design,Marketing tools integration,Ultra-fast loading"
     },
     "institutional": {
       "title": "Institutional Websites",
       "tag": "Most Popular",
       "description": "Present your company with elegance and professionalism. Complete websites that convey credibility and strengthen your brand.",
-      "features": ["Multiple customized pages", "SEO optimized", "Admin panel"]
+      "features": "Multiple customized pages,SEO optimized,Admin panel"
     }
   },
   "pricing": {
@@ -75,23 +75,20 @@
       "start": {
         "tag": "Basic",
         "name": "Start Plan",
-        "price": "R$ 250",
         "description": "Simple and straightforward website",
-        "features": ["Simple website", "1 page", "Free domain", "Basic support"]
+        "features": "Simple website,1 page,Free domain,Basic support"
       },
       "pro": {
         "tag": "Professional",
         "name": "Pro Plan",
-        "price": "R$ 800",
         "description": "Complete website for your business",
-        "features": ["Complete website (up to 5 pages)", "Professional layout", "Own domain for 1 year", "Basic SEO"]
+        "features": "Complete website (up to 5 pages),Professional layout,Own domain for 1 year,Basic SEO"
       },
       "premium": {
         "tag": "Complete",
         "name": "Premium Plan",
-        "price": "R$ 1,600",
         "description": "Complete and exclusive solution",
-        "features": ["Complete website", "Exclusive design", "Own domain", "Advanced optimization", "30-day maintenance"]
+        "features": "Complete website,Exclusive design,Own domain,Advanced optimization,30-day maintenance"
       }
     }
   },
