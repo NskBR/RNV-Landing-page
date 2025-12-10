@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "plans": "Plans",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Get Started"
+  },
+  "hero": {
+    "badge": "Your digital presence starts here",
+    "title": "Transform your",
+    "titleHighlight": "Digital Presence",
+    "description": "We develop modern and professional websites that take your brand to the next level. We create digital experiences that convert visitors into customers.",
+    "btnPlans": "View Plans",
+    "btnContact": "Talk to an Expert",
+    "stats": {
+      "projects": "projects",
+      "satisfaction": "satisfaction",
+      "years": "years"
+    }
+  },
+  "whyUs": {
+    "badge": "Our Differentials",
+    "title": "Why choose",
+    "titleHighlight": "RNV",
+    "description": "We combine technical expertise with creativity to deliver exceptional results",
+    "benefits": {
+      "fast": {
+        "title": "Fast Delivery",
+        "description": "Projects delivered on time, without compromising quality. We value your time."
+      },
+      "design": {
+        "title": "Professional Design",
+        "description": "Modern and personalized layouts that highlight your brand in the market."
+      },
+      "responsive": {
+        "title": "100% Responsive",
+        "description": "Websites that work perfectly on any device, from mobile to desktop."
+      },
+      "support": {
+        "title": "Dedicated Support",
+        "description": "We are always available to help you achieve your online goals."
+      }
+    }
+  },
+  "services": {
+    "badge": "What we offer",
+    "title": "Our",
+    "titleHighlight": "Services",
+    "description": "Complete solutions for your digital presence",
+    "learnMore": "Learn more",
+    "landing": {
+      "title": "Landing Pages",
+      "description": "High-conversion pages focused on results. Perfect for marketing campaigns and launches.",
+      "features": ["Optimized design", "High conversion", "Fast loading"]
+    },
+    "institutional": {
+      "title": "Institutional Websites",
+      "tag": "Popular",
+      "description": "Complete websites that present your company professionally. The perfect showcase for your business.",
+      "features": ["Multiple pages", "SEO optimized", "Integrated blog"]
+    }
+  },
+  "pricing": {
+    "badge": "Investment",
+    "title": "Plans that fit your",
+    "titleHighlight": "Budget",
+    "description": "Choose the ideal plan for your project",
+    "popular": "Most Popular",
+    "btnWhatsApp": "WhatsApp",
+    "btnTelegram": "Telegram",
+    "note": "* Prices and deadlines may vary according to project complexity. Contact us for a personalized quote.",
+    "plans": {
+      "start": {
+        "tag": "Basic",
+        "name": "Start Plan",
+        "description": "Simple and straightforward website",
+        "features": ["1 complete page", "Free domain", "Responsive design", "Basic support"]
+      },
+      "pro": {
+        "tag": "Professional",
+        "name": "Pro Plan",
+        "description": "Complete website for your business",
+        "features": ["Up to 5 pages", "Professional layout", "Own domain for 1 year", "Basic SEO", "Responsive design"]
+      },
+      "premium": {
+        "tag": "Complete",
+        "name": "Premium Plan",
+        "description": "Complete and exclusive solution",
+        "features": ["Complete website", "Exclusive design", "Own domain", "Advanced optimization (SEO)", "30-day maintenance"]
+      }
+    }
+  },
+  "process": {
+    "badge": "How We Work",
+    "title": "Our",
+    "titleHighlight": "Process",
+    "description": "A proven method to deliver exceptional results",
+    "steps": {
+      "briefing": {
+        "title": "Briefing",
+        "description": "We understand your needs, goals and expectations to create the perfect solution."
+      },
+      "design": {
+        "title": "Design",
+        "description": "We create unique and personalized layouts that reflect your brand identity."
+      },
+      "development": {
+        "title": "Development",
+        "description": "We transform the design into code, ensuring performance and responsiveness."
+      },
+      "delivery": {
+        "title": "Delivery",
+        "description": "We publish your website and offer support to ensure your online success."
+      }
+    }
+  },
+  "testimonials": {
+    "badge": "Testimonials",
+    "title": "What our",
+    "titleHighlight": "Clients Say",
+    "description": "See what those who have worked with us have to say",
+    "items": [
+      {
+        "text": "RNV exceeded all expectations. My website looks amazing and sales have increased significantly!",
+        "name": "Maria Silva",
+        "role": "CEO, Tech Solutions"
+      },
+      {
+        "text": "Professionalism and creativity in every detail. I strongly recommend for those seeking quality.",
+        "name": "João Santos",
+        "role": "Founder, Startup XYZ"
+      },
+      {
+        "text": "Exceptional service and results beyond expectations. The team really understands the business.",
+        "name": "Ana Oliveira",
+        "role": "Director, Bella Vista"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to transform your",
+    "titleHighlight": "digital presence",
+    "description": "Contact us now and discover how we can help your business grow online.",
+    "btnStart": "Get Started",
+    "btnContact": "Talk to Us"
+  },
+  "footer": {
+    "description": "Transforming ideas into memorable digital experiences.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact",
+    "copyright": "All rights reserved.",
+    "servicesList": ["Landing Pages", "Institutional Websites", "Maintenance", "SEO"]
+  },
+  "common": {
+    "loading": "Loading...",
+    "backToTop": "Back to top"
+  },
+  "marquee": {
+    "items": [
+      "Professional Websites",
+      "Landing Pages",
+      "Exclusive Design",
+      "100% Responsive",
+      "SEO Optimized",
+      "Dedicated Support",
+      "Fast Delivery"
+    ]
+  }
+}

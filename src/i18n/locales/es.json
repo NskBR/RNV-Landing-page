@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "plans": "Planes",
+    "about": "Acerca",
+    "contact": "Contacto",
+    "cta": "Empezar Ahora"
+  },
+  "hero": {
+    "badge": "Tu presencia digital comienza aquí",
+    "title": "Transforma tu",
+    "titleHighlight": "Presencia Digital",
+    "description": "Desarrollamos sitios web modernos y profesionales que elevan tu marca al siguiente nivel. Creamos experiencias digitales que convierten visitantes en clientes.",
+    "btnPlans": "Ver Planes",
+    "btnContact": "Hablar con un Experto",
+    "stats": {
+      "projects": "proyectos",
+      "satisfaction": "satisfacción",
+      "years": "años"
+    }
+  },
+  "whyUs": {
+    "badge": "Nuestros Diferenciales",
+    "title": "¿Por qué elegir",
+    "titleHighlight": "RNV",
+    "description": "Combinamos experiencia técnica con creatividad para entregar resultados excepcionales",
+    "benefits": {
+      "fast": {
+        "title": "Entrega Rápida",
+        "description": "Proyectos entregados a tiempo, sin comprometer la calidad. Valoramos tu tiempo."
+      },
+      "design": {
+        "title": "Diseño Profesional",
+        "description": "Layouts modernos y personalizados que destacan tu marca en el mercado."
+      },
+      "responsive": {
+        "title": "100% Responsivo",
+        "description": "Sitios web que funcionan perfectamente en cualquier dispositivo, del móvil al escritorio."
+      },
+      "support": {
+        "title": "Soporte Dedicado",
+        "description": "Siempre estamos disponibles para ayudarte a alcanzar tus objetivos online."
+      }
+    }
+  },
+  "services": {
+    "badge": "Lo que ofrecemos",
+    "title": "Nuestros",
+    "titleHighlight": "Servicios",
+    "description": "Soluciones completas para tu presencia digital",
+    "learnMore": "Saber más",
+    "landing": {
+      "title": "Landing Pages",
+      "description": "Páginas de alta conversión enfocadas en resultados. Perfectas para campañas de marketing y lanzamientos.",
+      "features": ["Diseño optimizado", "Alta conversión", "Carga rápida"]
+    },
+    "institutional": {
+      "title": "Sitios Institucionales",
+      "tag": "Popular",
+      "description": "Sitios web completos que presentan tu empresa de forma profesional. La vitrina perfecta para tu negocio.",
+      "features": ["Múltiples páginas", "SEO optimizado", "Blog integrado"]
+    }
+  },
+  "pricing": {
+    "badge": "Inversión",
+    "title": "Planes que caben en tu",
+    "titleHighlight": "Bolsillo",
+    "description": "Elige el plan ideal para tu proyecto",
+    "popular": "Más Popular",
+    "btnWhatsApp": "WhatsApp",
+    "btnTelegram": "Telegram",
+    "note": "* Los precios y plazos pueden variar según la complejidad del proyecto. Contáctanos para un presupuesto personalizado.",
+    "plans": {
+      "start": {
+        "tag": "Básico",
+        "name": "Plan Start",
+        "description": "Sitio simple y directo",
+        "features": ["1 página completa", "Dominio gratuito", "Diseño responsivo", "Soporte básico"]
+      },
+      "pro": {
+        "tag": "Profesional",
+        "name": "Plan Pro",
+        "description": "Sitio web completo para tu negocio",
+        "features": ["Hasta 5 páginas", "Layout profesional", "Dominio propio por 1 año", "SEO básico", "Diseño responsivo"]
+      },
+      "premium": {
+        "tag": "Completo",
+        "name": "Plan Premium",
+        "description": "Solución completa y exclusiva",
+        "features": ["Sitio web completo", "Diseño exclusivo", "Dominio propio", "Optimización avanzada (SEO)", "Mantenimiento por 30 días"]
+      }
+    }
+  },
+  "process": {
+    "badge": "Cómo Trabajamos",
+    "title": "Nuestro",
+    "titleHighlight": "Proceso",
+    "description": "Un método probado para entregar resultados excepcionales",
+    "steps": {
+      "briefing": {
+        "title": "Briefing",
+        "description": "Entendemos tus necesidades, objetivos y expectativas para crear la solución perfecta."
+      },
+      "design": {
+        "title": "Diseño",
+        "description": "Creamos layouts únicos y personalizados que reflejan la identidad de tu marca."
+      },
+      "development": {
+        "title": "Desarrollo",
+        "description": "Transformamos el diseño en código, garantizando rendimiento y responsividad."
+      },
+      "delivery": {
+        "title": "Entrega",
+        "description": "Publicamos tu sitio y ofrecemos soporte para garantizar tu éxito online."
+      }
+    }
+  },
+  "testimonials": {
+    "badge": "Testimonios",
+    "title": "Lo que dicen nuestros",
+    "titleHighlight": "Clientes",
+    "description": "Mira lo que quienes ya trabajaron con nosotros tienen que decir",
+    "items": [
+      {
+        "text": "RNV superó todas las expectativas. ¡Mi sitio quedó increíble y las ventas aumentaron significativamente!",
+        "name": "María Silva",
+        "role": "CEO, Tech Solutions"
+      },
+      {
+        "text": "Profesionalismo y creatividad en cada detalle. Recomiendo fuertemente para quienes buscan calidad.",
+        "name": "João Santos",
+        "role": "Fundador, Startup XYZ"
+      },
+      {
+        "text": "Atención excepcional y resultado más allá de lo esperado. El equipo realmente entiende del negocio.",
+        "name": "Ana Oliveira",
+        "role": "Directora, Bella Vista"
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para transformar tu",
+    "titleHighlight": "presencia digital",
+    "description": "Contáctanos ahora y descubre cómo podemos ayudar a tu negocio a crecer online.",
+    "btnStart": "Empezar Ahora",
+    "btnContact": "Hablar con Nosotros"
+  },
+  "footer": {
+    "description": "Transformando ideas en experiencias digitales memorables.",
+    "quickLinks": "Enlaces Rápidos",
+    "services": "Servicios",
+    "contact": "Contacto",
+    "copyright": "Todos los derechos reservados.",
+    "servicesList": ["Landing Pages", "Sitios Institucionales", "Mantenimiento", "SEO"]
+  },
+  "common": {
+    "loading": "Cargando...",
+    "backToTop": "Volver arriba"
+  },
+  "marquee": {
+    "items": [
+      "Sitios Profesionales",
+      "Landing Pages",
+      "Diseño Exclusivo",
+      "100% Responsivo",
+      "SEO Optimizado",
+      "Soporte Dedicado",
+      "Entrega Rápida"
+    ]
+  }
+}
