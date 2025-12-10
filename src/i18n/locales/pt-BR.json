@@ -52,14 +52,14 @@
     "learnMore": "Saiba mais",
     "landing": {
       "title": "Landing Pages",
-      "description": "Páginas de alta conversão focadas em resultados. Perfeitas para campanhas de marketing e lançamentos.",
-      "features": ["Design otimizado", "Alta conversão", "Carregamento rápido"]
+      "description": "Páginas de alta conversão focadas em resultados. Ideal para campanhas de marketing, lançamentos e captação de leads.",
+      "features": ["Design otimizado para conversão", "Integração com ferramentas de marketing", "Carregamento ultra-rápido"]
     },
     "institutional": {
       "title": "Sites Institucionais",
-      "tag": "Popular",
-      "description": "Sites completos que apresentam sua empresa de forma profissional. A vitrine perfeita para seu negócio.",
-      "features": ["Múltiplas páginas", "SEO otimizado", "Blog integrado"]
+      "tag": "Mais Popular",
+      "description": "Apresente sua empresa com elegância e profissionalismo. Sites completos que transmitem credibilidade e fortalecem sua marca.",
+      "features": ["Múltiplas páginas personalizadas", "SEO otimizado", "Painel administrativo"]
     }
   },
   "pricing": {
@@ -75,20 +75,23 @@
       "start": {
         "tag": "Básico",
         "name": "Plano Start",
+        "price": "R$ 250",
         "description": "Site simples e direto ao ponto",
-        "features": ["1 página completa", "Domínio gratuito", "Design responsivo", "Suporte básico"]
+        "features": ["Site simples", "1 página", "Domínio gratuito", "Suporte básico"]
       },
       "pro": {
         "tag": "Profissional",
         "name": "Plano Pro",
+        "price": "R$ 800",
         "description": "Website completo para seu negócio",
-        "features": ["Até 5 páginas", "Layout profissional", "Domínio próprio por 1 ano", "SEO básico", "Design responsivo"]
+        "features": ["Website completo (até 5 páginas)", "Layout profissional", "Domínio próprio por 1 ano", "SEO básico"]
       },
       "premium": {
         "tag": "Completo",
         "name": "Plano Premium",
+        "price": "R$ 1.600",
         "description": "Solução completa e exclusiva",
-        "features": ["Website completo", "Design exclusivo", "Domínio próprio", "Otimização avançada (SEO)", "Manutenção por 30 dias"]
+        "features": ["Website completo", "Design exclusivo", "Domínio próprio", "Otimização avançada", "Manutenção por 30 dias"]
       }
     }
   },

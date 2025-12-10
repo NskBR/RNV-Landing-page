@@ -111,6 +111,13 @@ export function Pricing() {
                     {planName}
                   </h3>
 
+                  {/* Price */}
+                  <div className="mb-4">
+                    <span className="text-3xl font-bold bg-gradient-to-r from-pink-400 via-purple-400 to-blue-400 bg-clip-text text-transparent">
+                      {t(`pricing.plans.${plan.key}.price`)}
+                    </span>
+                  </div>
+
                   {/* Description */}
                   <p className={`text-sm mb-6 ${isLight ? 'text-gray-600' : 'text-gray-400'}`}>
                     {t(`pricing.plans.${plan.key}.description`)}
