@@ -108,7 +108,7 @@ export function Footer() {
               </li>
               <li className={`flex items-center gap-3 text-sm ${isLight ? 'text-gray-600' : 'text-gray-400'}`}>
                 <Phone className={`w-5 h-5 flex-shrink-0 ${isLight ? 'text-purple-600' : 'text-purple-400'}`} />
-                (21) 99759-9694
+                (21) 96731-5691
               </li>
               <li className={`flex items-center gap-3 text-sm ${isLight ? 'text-gray-600' : 'text-gray-400'}`}>
                 <MapPin className={`w-5 h-5 flex-shrink-0 ${isLight ? 'text-purple-600' : 'text-purple-400'}`} />

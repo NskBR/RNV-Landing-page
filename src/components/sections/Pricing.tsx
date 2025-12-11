@@ -5,7 +5,7 @@ import { useTheme } from '@/hooks/useTheme';
 import { motion } from 'framer-motion';
 import { Check, MessageCircle, Send } from 'lucide-react';
 
-const WHATSAPP_NUMBER = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '5521997599694';
+const WHATSAPP_NUMBER = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '5521967315691';
 const TELEGRAM_USERNAME = process.env.NEXT_PUBLIC_TELEGRAM_USERNAME || 'rnvweb';
 
 export function Pricing() {
@@ -88,7 +88,7 @@ export function Pricing() {
               >
                 {/* Popular Badge */}
                 {plan.featured && (
-                  <div className="absolute -top-4 left-1/2 -translate-x-1/2 px-6 py-2 bg-gradient-to-r from-pink-500 to-purple-500 rounded-full text-sm font-bold text-white shadow-lg shadow-purple-500/30 whitespace-nowrap">
+                  <div className="absolute -top-4 left-1/2 -translate-x-1/2 z-20 px-6 py-2 bg-gradient-to-r from-pink-500 to-purple-500 rounded-full text-sm font-bold text-white shadow-lg shadow-purple-500/30 whitespace-nowrap">
                     {t('pricing.popular')}
                   </div>
                 )}

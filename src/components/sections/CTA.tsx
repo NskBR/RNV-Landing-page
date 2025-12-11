@@ -48,7 +48,7 @@ export function CTA() {
               {t('cta.btnStart')}
             </a>
             <a
-              href={`https://wa.me/${process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '5521997599694'}`}
+              href={`https://wa.me/${process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '5521967315691'}`}
               target="_blank"
               rel="noopener noreferrer"
               className={`group flex items-center gap-2 px-8 py-4 rounded-full font-semibold transition-all duration-300 ${

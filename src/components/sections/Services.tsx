@@ -72,15 +72,15 @@ export function Services() {
                       : 'bg-[#1a1a2e] border-white/5 hover:border-purple-500/20'
                 }`}
               >
+                {/* Top Border Animation */}
+                <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 rounded-t-2xl transform scale-x-0 group-hover:scale-x-100 transition-transform duration-500 origin-left z-0" />
+
                 {/* Featured Tag */}
                 {service.featured && (
-                  <div className="absolute -top-3 right-6 px-4 py-1 bg-gradient-to-r from-pink-500 to-purple-500 rounded-full text-xs font-semibold text-white">
+                  <div className="absolute -top-3 right-6 px-4 py-1 bg-gradient-to-r from-pink-500 to-purple-500 rounded-full text-xs font-semibold text-white z-10">
                     {t(`services.${service.key}.tag`)}
                   </div>
                 )}
-
-                {/* Top Border Animation */}
-                <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 rounded-t-2xl transform scale-x-0 group-hover:scale-x-100 transition-transform duration-500 origin-left" />
 
                 {/* Icon */}
                 <div className={`w-16 h-16 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300 ${isLight ? 'bg-gradient-to-r from-pink-100 via-purple-100 to-blue-100' : 'bg-gradient-to-r from-pink-500/20 via-purple-500/20 to-blue-500/20'}`}>
