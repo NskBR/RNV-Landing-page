@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nfix: Atualizar telefone e corrigir z-index do badge \"Mais Popular\"\n\n- Atualiza número de WhatsApp para (21) 96731-5691\n- Corrige z-index do badge \"Mais Popular\" no Pricing\n- Corrige z-index do badge de serviços em Services\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push:*)",
+      "Bash(copy:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}

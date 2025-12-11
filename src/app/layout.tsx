@@ -18,6 +18,10 @@ export const metadata: Metadata = {
   description: "Transformamos ideias em experiências digitais memoráveis. Sites profissionais, landing pages e soluções web completas.",
   keywords: ["desenvolvimento web", "sites profissionais", "landing pages", "web design", "RNV"],
   authors: [{ name: "RNV" }],
+  icons: {
+    icon: "/icon.png",
+    apple: "/icon.png",
+  },
   openGraph: {
     title: "RNV | Desenvolvimento Web Profissional",
     description: "Transformamos ideias em experiências digitais memoráveis.",
